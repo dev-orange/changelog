@@ -1,5 +1,12 @@
 
 
+## [1.0.2](https://github.com/zyc95/changelog/compare/1.0.1...1.0.2) (2022-06-29)
+
+
+### 📚文档
+
+* 添加README.md文档 ([aa645b1](https://github.com/zyc95/changelog/commit/aa645b11c32fb7f609cd087c3044a3e2a5f4eb56))
+
 ## 1.0.1 (2022-06-28)
 
 
